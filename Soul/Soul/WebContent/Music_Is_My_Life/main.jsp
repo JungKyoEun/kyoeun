@@ -63,7 +63,7 @@ html,body {
 </head>
 <body>
 	<header id="main" >
-		<div class="main-letter">Music Is My Life
+		<div class="main-letter">Music Is My Life !!
 			<a class="btn btn-default" href="/home/index">HOME</a>
 		</div>
 	</header>
